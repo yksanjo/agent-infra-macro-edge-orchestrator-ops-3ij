@@ -1,0 +1,23 @@
+{
+  "name": "agent-infra-macro-edge-orchestrator-ops-3ij",
+  "version": "1.0.0",
+  "description": "Logging and observability platform",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "infrastructure",
+    "macro-edge-orchestrator-ops-3ij"
+  ],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yksanjo/agent-infra-macro-edge-orchestrator-ops-3ij.git"
+  }
+}
